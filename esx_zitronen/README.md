@@ -1,12 +1,12 @@
 # esx_farmdelaranjas
 
-Update 0.5
+Edit by of esx_oranges by SMILE4ME
 
-E Catch of oranges, Processor for orange juice and then sell!
+Type E to Catch Zitronen
 
 Items:
--Orages
--Juice Orage
+-zitronen
+-zitronensaft
 
 # Installation
 1. Install Script
