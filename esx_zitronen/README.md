@@ -1,4 +1,4 @@
-# esx_farmdelaranjas
+# esx_zitronen
 
 Editierte Version von Farmoranges by SMiLE4ME. Andere Events läuft mit esx_oranges gleichzeitig ohne Probleme
 
